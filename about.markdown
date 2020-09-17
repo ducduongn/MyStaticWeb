@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduce to myself
+title: About myself
 permalink: /about/
 ---
 
@@ -14,7 +14,7 @@ My facebook is: [Đức Dương](https://www.facebook.com/profile.php?id=1000045
 
 My github is: [ducduongn](https://github.com/ducduongn)
 
-This static site will be located on: [MyStaticweb](https://github.com/ducduongn/MyStaticWeb.git)
+My static site Git repository: [MyStaticweb](https://github.com/ducduongn/MyStaticWeb.git)
 
 
 
