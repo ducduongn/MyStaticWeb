@@ -1,5 +1,5 @@
 ---
 layout: assignment
 title: "My Assignment"
-permalink: /
+permalink: /assignment
 ---
