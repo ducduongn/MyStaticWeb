@@ -23,7 +23,7 @@ email: ducduongn090@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Nguyen Duc Duong
 description2: "Student ID: 18020386"
-baseurl: /MyStaticWeb # the subpath of your site, e.g. /blog
+baseurl: MyStaticWeb # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: ndduong_
 github_username:  ducduongn
